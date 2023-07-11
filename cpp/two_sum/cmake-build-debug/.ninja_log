@@ -1,0 +1,9 @@
+# ninja log v5
+8	401	1688893610906856256	CMakeFiles/two_sum.dir/main.cpp.o	d36f5937035cab47
+401	444	1688893610952242485	two_sum	22acc0bfc6da462f
+8	407	1688894331608651838	CMakeFiles/two_sum.dir/Solution.cpp.o	8080d048db02ca6a
+8	531	1688894331734017147	CMakeFiles/two_sum.dir/main.cpp.o	d36f5937035cab47
+8	369	1688894422598777257	CMakeFiles/two_sum.dir/Solution.cpp.o	8080d048db02ca6a
+8	379	1688894422608745845	CMakeFiles/two_sum.dir/main.cpp.o	d36f5937035cab47
+8	405	1688894531099635099	CMakeFiles/two_sum.dir/Solution.cpp.o	8080d048db02ca6a
+405	449	1688894531146668413	two_sum	886566990c56af7

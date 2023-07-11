@@ -1,0 +1,3 @@
+/Users/ulas/Desktop/leed code/cpp/longest_common_prefix/cmake-build-debug/CMakeFiles/longest_common_prefix.dir
+/Users/ulas/Desktop/leed code/cpp/longest_common_prefix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ulas/Desktop/leed code/cpp/longest_common_prefix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
