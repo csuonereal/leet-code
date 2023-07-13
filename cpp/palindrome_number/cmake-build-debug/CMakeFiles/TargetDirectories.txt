@@ -1,3 +1,0 @@
-/Users/ulas/Desktop/leet code/cpp/palindrome_number/cmake-build-debug/CMakeFiles/palindrome_number.dir
-/Users/ulas/Desktop/leet code/cpp/palindrome_number/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ulas/Desktop/leet code/cpp/palindrome_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

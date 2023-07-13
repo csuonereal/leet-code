@@ -1,7 +1,0 @@
-# ninja log v5
-3	377	1689103615265366873	CMakeFiles/length_of_last_word.dir/main.cpp.o	28c53d75bb0c450a
-260	287	1689103777261690540	length_of_last_word	33183928b1385e93
-5	260	1689103777233161926	CMakeFiles/length_of_last_word.dir/solution.cpp.o	19df51209a764e7d
-6	326	1689104928386958776	CMakeFiles/length_of_last_word.dir/main.cpp.o	a1f4339193f9aa31
-6	327	1689104928384169677	CMakeFiles/length_of_last_word.dir/solution.cpp.o	a79575fce4e3e271
-327	367	1689104928428280803	length_of_last_word	33183928b1385e93

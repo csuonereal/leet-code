@@ -1,7 +1,0 @@
-# ninja log v5
-1	591	1689279462219785631	CMakeFiles/valid_parentheses.dir/main.cpp.o	4ad8e9c2cdc7cf43
-1	594	1689279462218348914	CMakeFiles/valid_parentheses.dir/Solution.cpp.o	2e9f86f2beeeed67
-594	644	1689279462276016548	valid_parentheses	2718a7b36774d871
-8	343	1689279839320816056	CMakeFiles/valid_parentheses.dir/main.cpp.o	4ad8e9c2cdc7cf43
-8	366	1689279839343891442	CMakeFiles/valid_parentheses.dir/Solution.cpp.o	2e9f86f2beeeed67
-366	409	1689279839389133294	valid_parentheses	2718a7b36774d871

@@ -1,9 +1,0 @@
-# ninja log v5
-0	535	1688902797670082408	CMakeFiles/longest_common_prefix.dir/Solution.cpp.o	8dd0d1cc74d16b12
-0	543	1688902797678981203	CMakeFiles/longest_common_prefix.dir/main.cpp.o	107720d4f123b0a5
-543	598	1688902797735723761	longest_common_prefix	b68b93a7806a1d78
-7	399	1688903201871583665	CMakeFiles/longest_common_prefix.dir/Solution.cpp.o	8dd0d1cc74d16b12
-7	415	1688903201888209191	CMakeFiles/longest_common_prefix.dir/main.cpp.o	107720d4f123b0a5
-415	457	1688903201932320674	longest_common_prefix	b68b93a7806a1d78
-8	343	1688903298468146245	CMakeFiles/longest_common_prefix.dir/Solution.cpp.o	8dd0d1cc74d16b12
-343	384	1688903298511281178	longest_common_prefix	b68b93a7806a1d78

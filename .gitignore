@@ -477,6 +477,6 @@ fabric.properties
 # C/C++ binary extension file
 *.bin
 
-/cmake-build-debug/
+*/cmake-build-debug/*
 CMakeLists.txt
 
