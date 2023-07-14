@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roman_to_integer", "roman_to_integer\roman_to_integer.csproj", "{028AE6D4-323A-4EC5-A9EF-1B21E8710B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028AE6D4-323A-4EC5-A9EF-1B21E8710B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028AE6D4-323A-4EC5-A9EF-1B21E8710B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028AE6D4-323A-4EC5-A9EF-1B21E8710B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028AE6D4-323A-4EC5-A9EF-1B21E8710B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
